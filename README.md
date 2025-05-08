@@ -1,4 +1,4 @@
-Absolutely, Prathmesh! Here's a simple, clean, and **easy-to-understand** `README.md` file you can use for your GitHub repo titled something like:
+
 
 > **Multi Language Website Maker (Basic HTML & React)**
 
@@ -167,15 +167,3 @@ Just follow these steps:
 Feel free to fork, clone, and improve this repo. If you have better language files or more advanced ideas — **pull requests are welcome**!
 
 ---
-
-## 📧 Contact
-
-Created with 💖 by **Prathmesh**
-If you found this useful, give it a ⭐️ and share it with friends!
-
-```
-
----
-
-Let me know if you'd like me to generate a version in **Marathi** or **Hindi** too, or add images/GIFs for better understanding.
-```
