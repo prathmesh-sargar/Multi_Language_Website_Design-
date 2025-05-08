@@ -1,0 +1,17 @@
+{
+    "greeting": "नमस्ते",
+    "welcome": "हमारी वेबसाइट पर आपका स्वागत है",
+    "about_title": "परिचय",
+    "about_heading": "इस वेबसाइट के बारे में",
+    "about_description": "यह वेबसाइट HTML, CSS और JavaScript का उपयोग करके बनाई गई एक सरल बहुभाषी परियोजना है।",
+    "back_home": "मुख्य पृष्ठ पर जाएं",
+    "contact_title": "संपर्क करें",
+  "contact_heading": "हमसे संपर्क करें",
+  "contact_description": "नीचे दिए गए फॉर्म का उपयोग करके हमसे बेझिझक संपर्क करें।",
+  "form_name_label": "नाम:",
+  "form_email_label": "ईमेल:",
+  "form_message_label": "संदेश:",
+  "form_submit_btn": "संदेश भेजें"
+
+  }
+  

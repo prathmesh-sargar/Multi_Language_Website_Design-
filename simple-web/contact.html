@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title data-i18n="contact_title">Contact</title>
+</head>
+<body>
+
+  <!-- Language Switcher -->
+  <select id="languageSwitcher">
+    <option value="en">English</option>
+    <option value="hi">Hindi</option>
+    <option value="mr">Marathi</option>
+    <option value="kdn">Kadan</option>
+  </select>
+  <br><br>
+  <button><a href="./about.html">about page </a></button>
+  <button><a href="./index.html">Home page </a></button>
+  <button><a href="./contact.html">Contact page </a></button>
+
+
+  <!-- Contact Page Content -->
+  <h1 data-i18n="contact_heading">Contact Us</h1>
+  <p data-i18n="contact_description">Feel free to reach out using the form below.</p>
+
+  <form id="contactForm">
+    <label for="name" data-i18n="form_name_label">Name:</label>
+    <input type="text" id="name" name="name" placeholder="" required />
+    
+    <label for="email" data-i18n="form_email_label">Email:</label>
+    <input type="email" id="email" name="email" placeholder="" required />
+    
+    <label for="message" data-i18n="form_message_label">Message:</label>
+    <textarea id="message" name="message" placeholder="" required></textarea>
+    
+    <button type="submit" data-i18n="form_submit_btn">Send Message</button>
+  </form>
+
+  <a href="index.html" data-i18n="back_home">Back to Home</a>
+
+  <script src="./lang.js"></script>
+</body>
+</html>

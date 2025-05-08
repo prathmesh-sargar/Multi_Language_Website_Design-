@@ -1,0 +1,17 @@
+{
+    "greeting": "Hello",
+    "welcome": "Welcome to our website",
+    "about_title": "About",
+  "about_heading": "About This Website",
+  "about_description": "This website is a simple multi-language project created using HTML, CSS, and JavaScript.",
+  "contact_title": "Contact",
+  "contact_heading": "Contact Us",
+  "contact_description": "Feel free to reach out using the form below.",
+  "form_name_label": "Name:",
+  "form_email_label": "Email:",
+  "form_message_label": "Message:",
+  "form_submit_btn": "Send Message",
+  "back_home": "Back to Home"
+
+  }
+  
